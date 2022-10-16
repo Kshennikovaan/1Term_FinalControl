@@ -36,16 +36,16 @@ string[] NewArray(string[] arr, int j)
 }
 
 String[] arr = {"hello", "2", "world", ":-)"};
-String[] arr2 = {"1234", "1567", "-2", "computer science", "33"};
-String[] arr3 = {"Russia", "UAE", "Denmark", "Kazan", "RSA", "USA"};
+// String[] arr2 = {"1234", "1567", "-2", "computer science", "33"};
+// String[] arr3 = {"Russia", "UAE", "Denmark", "Kazan", "RSA", "USA"};
 Console.Write("[");
 Console.Write(String.Join(", ", NewArray(arr,SizeElement(arr))));
 Console.Write("]");
-Console.WriteLine();
-Console.Write("[");
-Console.Write(String.Join(", ", NewArray(arr2,SizeElement(arr2))));
-Console.Write("]");
-Console.WriteLine();
-Console.Write("[");
-Console.Write(String.Join(", ", NewArray(arr3,SizeElement(arr3))));
-Console.Write("]");
+// Console.WriteLine();
+// Console.Write("[");
+// Console.Write(String.Join(", ", NewArray(arr2,SizeElement(arr2))));
+// Console.Write("]");
+// Console.WriteLine();
+// Console.Write("[");
+// Console.Write(String.Join(", ", NewArray(arr3,SizeElement(arr3))));
+// Console.Write("]");
