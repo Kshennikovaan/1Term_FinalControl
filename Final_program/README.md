@@ -8,6 +8,6 @@
 
 *["1234", "1567", "-2", "computer science", "33"] -> ["-2", "33"]*
 
-*["Russia", "UAE", "Denmark", "Kazan", "RSA", "USA"]*
+*["Russia", "UAE", "Denmark", "Kazan", "RSA", "USA"] -> ["UAE", "RSA", "USA"]*
 
 
